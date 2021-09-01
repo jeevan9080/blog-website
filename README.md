@@ -1,1 +1,1 @@
-# blog-website (Last updated on 15.08.2021)
+# blog-website (Last updated on 01.09.2021)
